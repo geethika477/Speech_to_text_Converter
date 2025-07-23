@@ -56,7 +56,7 @@ This project is made by **Geethika** with a little help from AI. A great way to 
 
 ---
 
-## 📄 License
+## License
 
 This project is open for learning and personal use.
 
