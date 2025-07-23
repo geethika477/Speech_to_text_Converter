@@ -23,7 +23,7 @@ A simple and beginner-friendly voice-to-text desktop application built using Pyt
 
 ---
 
-## 📦 Install Required Libraries
+## Install Required Libraries
 
 Before running the app, make sure to install the necessary libraries:
 
@@ -35,7 +35,7 @@ pip install speechrecognition pyaudio
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 1. Download or clone this repository.
 2. Make sure you have all required libraries installed.
@@ -50,9 +50,9 @@ python your_filename.py
 
 ---
 
-## 🙋‍♀️ Creator
+## Creator
 
-This project is made by **Geethika** with a little help from AI 🤖. A great way to explore the basics of speech recognition and GUI programming.
+This project is made by **Geethika** with a little help from AI. A great way to explore the basics of speech recognition and GUI programming.
 
 ---
 
