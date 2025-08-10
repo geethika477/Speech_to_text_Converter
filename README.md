@@ -1,4 +1,4 @@
-## Voice-to-Text Desktop App
+## Speech-to-Text Desktop App
 
 A simple and beginner-friendly voice-to-text desktop application built using Python. This app allows users to either **record their own voice** or **upload a `.wav` file**, and then converts the speech into text using **Google Speech Recognition**. It's a great mini project to learn about GUI programming, voice recognition, and Python scripting.
 
