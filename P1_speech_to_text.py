@@ -123,7 +123,7 @@ tk.Entry(root, textvariable=entry_var, width=40).pack(pady=5)
 tk.Button(root, text="Browse", command=choose_file).pack(pady=5)
 tk.Button(root, text="Convert File to Text", command=convert_audio_file).pack(pady=5)
 
-tk.Label(root, text="Or").pack(pady=5)
+tk.Label(root, text="Or").pack(pady=50)
 
 start_button = tk.Button(root, text="Start Recording", command=start_recording, bg="lightgreen")
 start_button.pack(pady=5)
